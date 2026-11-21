@@ -4,7 +4,7 @@ import streamlit as st
 #  Page Configuration
 # ============================================================
 st.set_page_config(
-    page_title="Dhikr Counter | اللهم صلي على محمد",
+    page_title="Dhikr Counter | اللهم صلي وسلم وبارك على نبينا محمد",
     page_icon="📿",
     layout="centered",
     initial_sidebar_state="collapsed",
